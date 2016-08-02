@@ -1,0 +1,183 @@
+#+TITLE: 关于我
+#+OPTIONS: ^:{}
+#+OPTIONS: \n:t 
+#+HTML_HEAD: <link rel="stylesheet" href="http://orgmode.org/org-manual.css" type="text/css" />
+Tips: 下载 htlm 格式文件直接在浏览器中打开，可以查看格式优化过的文档。
+
+* 简介
+2016-7 月正式离职后，面试了几家公司，发现大家都不太敢用我。这是可以理解的，毕竟我之前主要做的是 cocos2d-x 开发，而 Unity 的开发经验是几年前的事情了。所以，之后我对 Unity 进行了快速学习，下面是最近一段时间内我所做的事情：
+
+***** 首先，快速过了一遍 C#语言基础。
+下面是我的 C#笔记和学习项目。
+[[https://github.com/wolfand11/StudyProjects/blob/master/BookReading/ProgrammingInCSharp/note.org][C#笔记]]
+[[https://github.com/wolfand11/StudyProjects/tree/master/BookReading/ProgrammingInCSharp/TestCSharp/TestCSharp][C#学习项目]]
+***** 其次，深入学习了 Unity shader 开发
+因为我之前对 OpenGL 和 GLSL 比较熟悉，渲染属于游戏引擎的主要模块之一，以渲染模块为入口，可以对游戏引擎有全面的认识。
+下面是我学习 Unity shader 开发是做的笔记和学习项目
+[[https://github.com/wolfand11/StudyProjects/tree/master/OpenGL/UnityShadersAndEffectsCookbook][Unity Shader 开发学习项目]]
+***** 然后，深入学习了 Unity 的 uGUI 模块和脚本模块
+下面是我学习 Unity uGUI 和脚本等模块的笔记和学习项目
+[[https://github.com/wolfand11/StudyProjects/tree/master/Unity][Unity uGUI Script 等模块的学习项目]]
+***** 最后，综合我之前的开发经验以及最近一段时间的学习，做了一个 Unity 开发框架
+框架的名称为 GameFramework，简称 GFramework 或 GFW，下面是我制作的框架的项目地址：
+[[https://github.com/wolfand11/GFW][GFramework 项目地址]]
+***** 现在，我再次投入到求职中。
+希望能重新获得一些机会。如果你有合适的机会给我，请通过下面基本信息中的联系方式来告知我，谢谢。
+* 我的简历
+** 基本信息
+#+BEGIN_EXAMPLE
+郭栋 男 26 岁(1987 年) 大学本科 计算机科学与技术专业
+工作经验:2010 年至今一直从事游戏行业
+居住地:上海
+E-mail:smile_guodong@163.com  
+QQ:476104187
+主　页:http://wolfand11.github.io/
+#+END_EXAMPLE
+** 工作经验
+*** 2014/03--2016/07
+#+BEGIN_EXAMPLE
+2014/3―2016/7：上海萌果游戏 | 网络游戏 | 50-150 人 | 民营公司
+地城勇士 | 多媒体/游戏开发工程师
+职位：游戏客户端主程
+项目名称：地城勇士
+项目使用引擎：cocos2d -js
+我的工作：
+1、依据策划需求，制定客户端程序开发计划。
+2、协调客户端程序工作内容。
+3、提供客户端程序技术支持。
+4、游戏框架搭建。
+5、游戏战斗实现。
+6、游戏性能优化。
+项目状况：成功上线
+北美 dungeon crush 
+东南亚 地城勇士
+台湾 勇者很忙
+#+END_EXAMPLE
+*** 2013/10--2014/03
+2013/10―2014/2：PPTV | 网络游戏 | 500-1000 人 | 合资
+职位：游戏客户端高级程序开发
+卡牌游戏项目
+（1）基于 cocos2d-x 游戏引擎二次开发。
+（2）扩展 CocosBuilder 游戏制作工具；开发游戏制作辅助工具；
+（3）参与部分游戏逻辑开发。
+
+*** 2013/06--2013/09
+#+BEGIN_EXAMPLE
+2013 /6--2013 /9：第九城市（150-500 人）
+职位：游戏 AI 开发
+工作内容
+1. 奇迹 2
+项目使用引擎：客户端 Havok，服务器自主研发
+我的工作：实现 npc 的 AI
+#+END_EXAMPLE
+*** 2011/7--2013/6
+#+BEGIN_EXAMPLE
+2011 /7--2013 /6：上海宇果软件（少于 50 人） 
+职位：游戏客户端程序开发 创业者
+工作内容 
+1、iGoBeat 
+项目使用引擎：cocos2d 
+我的工作：负责成就系统 奖励系统的开发 
+项目状况：成功上线 
+2、Las.Ves.Gas 
+项目使用引擎：Unity3d 
+我的工作：负责网络协议处理 部分 UI 逻辑的开发 
+项目状况：主体功能开发完毕，但未上线 
+3、多多游戏大厅 
+项目使用引擎：cocos2d-x 
+我的工作：程序部分一个人独立完成 
+项目状况：成功上线 
+4、洛克节奏 
+项目使用引擎：cocos2d 
+我的工作：程序部分一个人独立完成 
+项目状况：成功上线 
+5、魔卡三国 
+项目使用引擎：cocos2d-x 
+我的工作：负责客户端底层框架的设计和实现 
+项目状况：主体功能开发完毕，但未上线 
+#+END_EXAMPLE
+*** 2010/7--2011/7
+#+BEGIN_EXAMPLE
+2010 /7--2011 /7：上海火彩网络有限公司（50-150 人）
+职业：游戏客户端程序开发
+1 负责《侠道金刚》(PC 网游)，ui 逻辑开发。 
+2 喜洋洋灰太狼主题拔河街机游戏开发 （action script 程序部分一个人独立完成 主体功能开发完毕，但未上线） 
+#+END_EXAMPLE
+** 教育经历
+#+BEGIN_EXAMPLE
+2006 /9--2010 /6 中原工学院 计算机科学与技术 本科
+大学期间学习过的课程：《高数》、《线性代数》、《离散数学》、《概率统计》、《数值计算方法》、《大学物理》、《哲学》、《C++程序设计》、《windows 程序设计》、《32 位汇编》、《计算机网络原理》、《数据库原理》、《计算机图形学》、《计算机组成原理》、《计算机操作系统》、《计算机编译原理》、《软件工程导论》等
+#+END_EXAMPLE
+** IT 技能
+*** 语言：
+#+BEGIN_EXAMPLE
+1、熟练掌握 C++
+2、熟练掌握 ObjectiveC
+3、熟练掌握 C#
+4、熟练使用 Javascript、Lua、Python
+6、曾使用 ActionScript、VBA、Shell
+#+END_EXAMPLE
+*** 游戏框架:
+#+BEGIN_EXAMPLE
+1、熟悉 3D 数学
+2、熟练掌握面向对象编程
+3、熟练掌握 curl、bsd socket 等网络库，实现游戏框架的网络模块。
+4、熟练掌握 xml、json 等相关库的使用，实现游戏框架的静态数据配置模块。
+5、熟练掌握 UI 控件的实现，能够根据需求实现自定义 UI 控件，实现完整 GUI 模块。
+6、熟练掌握 OpenGL，熟悉渲染流程，熟悉 GLSL 开发，能够对开源引擎做二次开发。
+7、熟练掌握 cocos2d-x 引擎，可以对引擎进行功能扩展和封装。
+8、熟练使用 Unity3D
+（1）熟悉 Unity 渲染。
+（2）熟悉 UGUI 原理，熟练使用 UGUI。
+（3）熟悉 Unity Shader 开发。
+（4）可基于 Unity 构建开发框架提高项目开发速度和质量。
+9、熟练掌握 QtSDK，可以开发游戏制作辅助工具。
+10、熟练掌握 CocosBuilder、CocosStudio 工具的扩展。
+11、熟练使用 Python 优化开发流程。
+12、熟悉游戏性能优化，可依据实际情况对性能进行优化。
+#+END_EXAMPLE
+*** 我的开源项目：
+#+BEGIN_EXAMPLE
+Github 主页地址 https://github.com/wolfand11
+1、OpenGL 编程
+固定管线    https://github.com/wolfand11/StudyProjects/tree/master/OpenGL/QtGL
+可编程管线 https://github.com/wolfand11/StudyProjects/tree/master/OpenGL/QtGLSL
+
+2、Unity 相关项目
+(1) Unity 客户端开发框架
+这是结合以前开发经验，构建的一个 Unity 客户端开发框架。名称为 GameFramework 简称 GFramework 或 GFW
+https://github.com/wolfand11/GFW
+
+(2) Unity Shader 编程
+这个项目是我在学《UnityShadersAndEffectsCookbook》本书时候创建的，实现了书中的所有 Shader 效果。
+记录了 Shader 开发中的一些知识和遇到的问题。
+https://github.com/wolfand11/StudyProjects/tree/master/OpenGL/UnityShadersAndEffectsCookbook
+
+(3) Unity uGUI script 等模块学习项目
+主要是官方相关模块文档的翻译，以及 Unity 相关知识记录。
+https://github.com/wolfand11/StudyProjects/tree/master/Unity
+
+(4) C#语言基础
+主要记录 C#语言基础，以及一些错误处理
+https://github.com/wolfand11/StudyProjects/blob/master/BookReading/ProgrammingInCSharp/note.org
+
+3、美术字体制作工具
+功能：可以将 TexturePacker 导出的大图配置转化为 BitmapFont 的配置
+地址：https://github.com/wolfand11/Tools_PlistToFnt 
+
+4、CocosBuilder 游戏制作工具扩展
+（1）自定义控件 https://github.com/wolfand11/CocosBuilder-CustomWidget 
+（2）CocosBuilder 二次开发 https://github.com/wolfand11/CocosBuilder_v2_1/tree/develop 
+
+5、自学 Unity3d 时做的 Demo： 
+https://github.com/wolfand11/GameClone/tree/master/FlappyBird 
+https://github.com/wolfand11/GameClone/tree/master/TheGreatPaperAdventure
+#+END_EXAMPLE
+
+* 结束语
+最后，感谢你的关注。谢谢！
+
+
+
+
+
